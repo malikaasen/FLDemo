@@ -4,4 +4,3 @@ fastai==1.0.61
 voila
 ipywidgets
 pathlib
-torch
